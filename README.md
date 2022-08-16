@@ -17,7 +17,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devdewa&style=flat-square&color=blue" alt=""/>
 </div>
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdewa&layout=compact&theme=vision-friendly-light)
