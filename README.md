@@ -18,6 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=devdewa&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center" style="margin: 1rem 0 0 0;">
+<div align="center">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devdewa&theme=horizon&hide_border=true)](https://git.io/streak-stats)
 </div>
