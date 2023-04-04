@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://dev-dewa.vercel.app/img/hero.png" width="100%"/>
+  <img src="https://portfolio-devdewa.vercel.app/images/aditya.jpg" width="100%"/>
 </div>
 
 <div id="badges" align="center">
