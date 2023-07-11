@@ -1,3 +1,11 @@
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devdewa&theme=icegray&hide_border=true&ring=6E6E6E&fire=BD2121DE)](https://git.io/streak-stats)
+  
+</div>
+
+---
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/adityawarman-dewa-putra/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,12 +20,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devdewa&style=flat-square&color=blue" alt=""/>
-</div>
-
----
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devdewa&theme=icegray&hide_border=true&ring=6E6E6E&fire=BD2121DE)](https://git.io/streak-stats)
-  
 </div>
