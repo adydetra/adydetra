@@ -1,6 +1,6 @@
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devdewa&theme=icegray&hide_border=true&card_width=800px&ring=6E6E6E&fire=BD2121DE)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devdewa&theme=dark&hide_border=true&card_width=800px&ring=6E6E6E&fire=BD2121DE)](https://git.io/streak-stats)
   
 </div>
 
