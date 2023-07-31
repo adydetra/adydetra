@@ -6,7 +6,7 @@
 
 <p align="center">
 <!--   <img alt="devdewa Github Stats" src="https://github-readme-stats.vercel.app/api?username=devdewa&show_icons=true&include_all_commits=true&hide_border=true" /> -->
-  <img alt="devdewa Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devdewa&theme=dark&hide_border=true&layout=compact&langs_count=10&card_width=800px" /> 
+  <img alt="devdewa Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devdewa&theme=dark&hide_border=true&layout=compact&langs_count=10&card_width=700px" /> 
 </p>
 
 ---
