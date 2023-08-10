@@ -21,7 +21,7 @@
   <a href="https://www.youtube.com/channel/UCAsTO0kxxerfh4IlbQQQ6Bg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/adityawarman_P">
+  <a href="https://twitter.com/devdewa_id">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
