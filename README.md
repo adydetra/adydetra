@@ -8,12 +8,12 @@
 <p align="center">
 <!--   <img alt="devdewa Github Stats" src="https://github-readme-stats.vercel.app/api?username=devdewa&show_icons=true&include_all_commits=true&hide_border=true" /> -->
   <img alt="devdewa Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devdewa&theme=dark&hide_border=true&layout=compact&langs_count=20&card_width=800px" />
-<!--   <img alt="devdewa Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devdewa&theme=dark&hide_border=true&layout=compact&langs_count=20&card_width=600px&hide=blade,php" />  -->
 
 </p>
 
 ---
 
+<!-- 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/adityawarman-dewa-putra/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,6 +25,18 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+ -->
+
+<p align="center">
+  <samp>
+    <a href="https://adityawarman.vercel.app">me</a> .
+    <a href="https://adityawarman.vercel.app/blog">blog</a> .
+    <a href="https://adityawarman.vercel.app/feed">feed</a> .
+    <a href="https://mastodon.social/@adityawarman">mastodon</a> .
+    <a href="https://twitter.com/devdewa_id">tweets</a> .
+    <a href="https://discord.gg/WzpazrK9NT">discord</a> .
+  </samp>
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devdewa&style=flat-square&color=blue" alt="Profile View"/>
