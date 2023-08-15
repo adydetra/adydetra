@@ -34,7 +34,7 @@
     <a href="https://adityawarman.vercel.app/feed">feed</a> .
     <a href="https://mastodon.social/@adityawarman">mastodon</a> .
     <a href="https://twitter.com/devdewa_id">tweets</a> .
-    <a href="https://discord.gg/WzpazrK9NT">discord</a> .
+    <a href="https://discord.gg/WzpazrK9NT">discord</a>
   </samp>
 </p>
 
