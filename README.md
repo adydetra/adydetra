@@ -2,8 +2,6 @@
 [twitter]: https://www.twitter.com/devdewa_id
 [mastodon]: https://mastodon.social/@adityawarman
 [gmail]: mailto:devdewa123.sp@gmail.com
-
-### <samp>&gt; Hi there, I'm <a href="https://www.twitter.com/adi1090x" target="_blank">Aditya Shakya</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
  
 <!--
 <p align="center">
