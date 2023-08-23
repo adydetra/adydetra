@@ -17,10 +17,9 @@
  -->
  
 <div align="center">
-  [![Static Badge](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=X&logoColor=white)][twitter]
-  [![Static Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=Mastodon&logoColor=white)][mastodon]
-  [![Static Badge](https://img.shields.io/badge/Website-1d2128?style=flat&logo=google-chrome&logoColor=white)][personal]
-  [![Static Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=Mastodon&logoColor=white)](https://mastodon.social/@adityawarman)
+[![Static Badge](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=X&logoColor=white)][twitter]
+[![Static Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=Mastodon&logoColor=white)][mastodon]
+[![Static Badge](https://img.shields.io/badge/Website-1d2128?style=flat&logo=google-chrome&logoColor=white)][personal]
 </div>
 
 <div align="center">
@@ -41,5 +40,5 @@
 📈 **My GitHub Stats:**
 
 <p align="center">
-  <img alt="devdewa Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devdewa&theme=dark&hide_border=true&layout=compact&langs_count=20&card_width=800px" />
+  <img alt="devdewa Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devdewa&theme=dark&hide_border=true&layout=compact&langs_count=20&card_width=1000px" />
 </p>
