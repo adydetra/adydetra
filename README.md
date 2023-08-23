@@ -15,16 +15,6 @@
   </samp>
 </p>
  -->
- 
-<div align="center">
- [![Static Badge](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=X&logoColor=white)][twitter]
- [![Static Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=Mastodon&logoColor=white)][mastodon]
- [![Static Badge](https://img.shields.io/badge/Website-1d2128?style=flat&logo=google-chrome&logoColor=white)][personal]
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devdewa&style=flat-square&color=blue" alt="Profile View"/>
-</div>
 
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
 
@@ -42,3 +32,13 @@
 <p align="center">
   <img alt="devdewa Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devdewa&theme=dark&hide_border=true&layout=compact&langs_count=20&card_width=1000px" />
 </p>
+
+<div align="center">
+ [![Static Badge](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=X&logoColor=white)][twitter]
+ [![Static Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=Mastodon&logoColor=white)][mastodon]
+ [![Static Badge](https://img.shields.io/badge/Website-1d2128?style=flat&logo=google-chrome&logoColor=white)][personal]
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=devdewa&style=flat-square&color=blue" alt="Profile View"/>
+</div>
