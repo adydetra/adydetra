@@ -17,11 +17,9 @@
  -->
  
 <div align="center">
- 
-[![Static Badge](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=X&logoColor=white)][twitter]
-[![Static Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=Mastodon&logoColor=white)][mastodon]
-[![Static Badge](https://img.shields.io/badge/Website-1d2128?style=flat&logo=google-chrome&logoColor=white)][personal]
-
+ [![Static Badge](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=X&logoColor=white)][twitter]
+ [![Static Badge](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=Mastodon&logoColor=white)][mastodon]
+ [![Static Badge](https://img.shields.io/badge/Website-1d2128?style=flat&logo=google-chrome&logoColor=white)][personal]
 </div>
 
 <div align="center">
