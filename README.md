@@ -30,8 +30,7 @@
 📈 **My GitHub Stats:**
 
 <p align="center">
-<!--   <img alt="devdewa Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devdewa&theme=dark&hide_border=true&layout=compact&langs_count=20&card_width=1000px" /> -->
- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devdewa&theme=nord&hide_border=true&layout=compact&langs_count=20&card_width=800px&exclude_repo=decorative-plant" />
+ <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devdewa&theme=nord&hide_border=true&layout=compact&langs_count=20&card_width=800px&exclude_repo=decorative-plant,E-Commerce-LSP" />
 </p>
 
 <div align="center">
