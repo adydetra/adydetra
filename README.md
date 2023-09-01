@@ -30,7 +30,7 @@
 📈 **My GitHub Stats:**
 
 <p align="center">
- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devdewa&theme=nord&hide_border=true&layout=compact&langs_count=20&card_width=800px&exclude_repo=decorative-plant,E-Commerce-LSP,Portfolio,averroes" />
+ <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devdewa&theme=nord&hide_border=true&layout=compact&langs_count=20&card_width=800px&exclude_repo=decorative-plant,e-commerce-lsp,portfolio,averroes" />
 </p>
 
 <div align="center">
