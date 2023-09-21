@@ -16,8 +16,6 @@
 </p>
  -->
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
-
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool
