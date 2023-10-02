@@ -19,7 +19,7 @@
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning vue & nuxt
+<!-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning vue & nuxt -->
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [here!][gmail]
 
@@ -28,7 +28,7 @@
 📈 **My GitHub Stats:**
 
 <p align="center">
- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devdewa&theme=nord&hide_border=true&layout=compact&langs_count=20&card_width=800px&exclude_repo=decorative-plant,e-commerce-lsp,portfolio,averroes,maritime-explore" alt="Stats" />
+ <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adydetra&theme=nord&hide_border=true&layout=compact&langs_count=20&card_width=800px&exclude_repo=decorative-plant,e-commerce-lsp,portfolio,averroes,maritime-explore" alt="Stats" />
 </p>
 
 <div align="center">
@@ -40,5 +40,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devdewa&style=flat-square&color=blue" alt="Profile View"/>
+  <img src="https://komarev.com/ghpvc/?username=adydetra&style=flat-square&color=blue" alt="Profile View"/>
 </div>
