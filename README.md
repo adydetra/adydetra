@@ -1,5 +1,5 @@
 [personal]: https://adityawarman.vercel.app
-[twitter]: https://www.twitter.com/devdewa_id
+[twitter]: https://www.twitter.com/adydetra
 [mastodon]: https://mastodon.social/@adityawarman
 [gmail]: mailto:devdewa123.sp@gmail.com
  
