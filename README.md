@@ -1,27 +1,27 @@
+<p align="center">
+  <samp>
+    <a href="https://adydetra.my.id">me</a> .
+    <a href="https://adydetra.my.id/feed">feed</a> .
+    <a href="https://adydetra.my.id/demo">demo</a> .
+    <a href="https://twitter.com/adydetra">tweets</a> .
+    <a href="https://mastodon.social/@adityawarman">mastodon</a> .
+    <a href="https://discord.gg/WzpazrK9NT">discord</a>
+  </samp>
+</p>
+
+<!--
+
 [personal]: https://adityawarman.vercel.app
 [twitter]: https://www.twitter.com/adydetra
 [mastodon]: https://mastodon.social/@adityawarman
 [gmail]: mailto:devdewa123.sp@gmail.com
- 
-<!--
-<p align="center">
-  <samp>
-    <a href="https://adityawarman.vercel.app">me</a> .
-    <a href="https://adityawarman.vercel.app/blog">blog</a> .
-    <a href="https://adityawarman.vercel.app/feed">feed</a> .
-    <a href="https://mastodon.social/@adityawarman">mastodon</a> .
-    <a href="https://twitter.com/devdewa_id">tweets</a> .
-    <a href="https://discord.gg/WzpazrK9NT">discord</a>
-  </samp>
-</p>
- -->
 
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [here!][gmail]
-<!-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning vue & nuxt -->
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning vue & nuxt
 
 </br>
 
@@ -42,3 +42,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adydetra&style=flat-square&color=blue" alt="Profile View"/>
 </div>
+
+-->
