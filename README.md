@@ -1,9 +1,9 @@
 <p align="center">
   <samp>
-    <a href="https://adityawarman.vercel.app">me</a> .
-    <a href="https://blog-adydetra.vercel.app">blog</a> .
-    <a href="https://adityawarman.vercel.app/feed">feed</a> .
-    <a href="https://adityawarman.vercel.app/demo">demo</a> .
+    <a href="https://www.adydetra.my.id">me</a> .
+    <a href="https://blog.adydetra.my.id">blog</a> .
+    <a href="https://adydetra.my.id/feed">feed</a> .
+    <a href="https://adydetra.my.id/demo">demo</a> .
     <a href="https://x.com/adydetra">tweets</a> .
     <a href="https://pinterest.com/adydetra">pinterest</a> .
     <a href="https://elk.zone/mastodon.social/@adityawarman">mastodon</a> .
