@@ -3,7 +3,6 @@
     <a href="https://www.adydetra.my.id">me</a> .
     <a href="https://www.adydetra.my.id/blog">blog</a> .
     <a href="https://adydetra.my.id/feed">feed</a> .
-    <a href="https://adydetra.my.id/demo">demo</a> .
     <a href="https://x.com/adydetra">tweets</a> .
     <a href="https://pinterest.com/adydetra">pinterest</a> .
     <a href="https://elk.zone/mastodon.social/@adityawarman">mastodon</a> .
